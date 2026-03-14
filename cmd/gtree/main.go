@@ -7,7 +7,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"gtree/internal/ui"
+	"github.com/vishruth555/gtree/internal/ui"
 )
 
 func main() {

@@ -9,7 +9,7 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"gtree/internal/fs"
+	"github.com/vishruth555/gtree/internal/fs"
 )
 
 const minBarWidth = 12
